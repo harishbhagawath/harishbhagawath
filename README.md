@@ -1,5 +1,5 @@
 
-<!-- img width="1000" alt="image" src="https://github.com/mvharsh/mvharsh/assets/111365320/40910d79-b670-42f0-97f1-1a6e4134cbd5"> -->
+<img width="1000" alt="image" src="Banner.png"> 
 
 <h1 align="center">Hi👋🏻, I'm Harish Bhagawath</h1>
 
